@@ -1,0 +1,3 @@
+﻿  dhoman_program6.cpp
+C:\Users\Mark\Desktop\COP3014 Files\dhoman_program6\dhoman_program6.cpp(234): warning C4715: 'ProcessGuess': not all control paths return a value
+  dhoman_program6.vcxproj -> C:\Users\Mark\Desktop\COP3014 Files\dhoman_program6\Debug\dhoman_program6.exe

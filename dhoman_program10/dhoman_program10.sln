@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dhoman_program10", "dhoman_program10.vcxproj", "{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}.Debug|x64.ActiveCfg = Debug|x64
+		{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}.Debug|x64.Build.0 = Debug|x64
+		{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}.Debug|x86.ActiveCfg = Debug|Win32
+		{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}.Debug|x86.Build.0 = Debug|Win32
+		{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}.Release|x64.ActiveCfg = Release|x64
+		{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}.Release|x64.Build.0 = Release|x64
+		{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}.Release|x86.ActiveCfg = Release|Win32
+		{E10D04CD-C098-43AB-B9BB-6F4550AF0B45}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F4C825-378D-42F3-97C2-556FB3AAFE70}
+	EndGlobalSection
+EndGlobal
